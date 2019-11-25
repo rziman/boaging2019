@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://rziman.github.io/boaging2019/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://rziman.github.io/boaging2019/v/2e10bb46b1358ddcb9e752d52ac7f0c985d76185/" />
+  <link rel="alternate" type="text/html" href="https://rziman.github.io/boaging2019/v/eaa89f30dab1b7e776b5c2c08309ba5e06ea97cd/" />
 
-  <meta name="manubot_html_url_versioned" content="https://rziman.github.io/boaging2019/v/2e10bb46b1358ddcb9e752d52ac7f0c985d76185/" />
+  <meta name="manubot_html_url_versioned" content="https://rziman.github.io/boaging2019/v/eaa89f30dab1b7e776b5c2c08309ba5e06ea97cd/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://rziman.github.io/boaging2019/v/2e10bb46b1358ddcb9e752d52ac7f0c985d76185/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://rziman.github.io/boaging2019/v/eaa89f30dab1b7e776b5c2c08309ba5e06ea97cd/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -97,9 +97,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://rziman.github.io/boaging2019/v/2e10bb46b1358ddcb9e752d52ac7f0c985d76185/))
+([permalink](https://rziman.github.io/boaging2019/v/eaa89f30dab1b7e776b5c2c08309ba5e06ea97cd/))
 was automatically generated
-from [rziman/boaging2019@2e10bb4](https://github.com/rziman/boaging2019/tree/2e10bb46b1358ddcb9e752d52ac7f0c985d76185)
+from [rziman/boaging2019@eaa89f3](https://github.com/rziman/boaging2019/tree/eaa89f30dab1b7e776b5c2c08309ba5e06ea97cd)
 on November 25, 2019.
 </em></small>
 
@@ -142,6 +142,35 @@ The authors were all participants at the _Biology of Aging Symposium: Understand
 Accordingly, we designed a survey that we sent to participants of the symposium, both invited speakers and students/other participants. The survey was meant to capture the opinions on the key points of disagreement during the debate and the meeting more generally. All participants who responded to the survey are co-authors.
 
 
+## Methods
+
+_Survey_
+
+We used the tool SurveyMonkey to distribute a survey to the 44 invited speakers, XX students, and YY other participants at the symposium. The survey collected the following information: (1) name; (2) demographic data (sex, country of origin, career stage, domains of expertise); (3) Likert-scale and other limited response questions (see below); and (4) a single open-ended question, "In no more than two sentences or 100 words, please describe your understanding of what aging is, or is not, at a mechanistic level."
+
+The Likert scale used was, "For each of the following statements, do you (1) Strongly disagree; (2) Moderately disagree; (3) Slightly disagree; (4) Neutral; (5) Slightly agree; (6) Moderately agree; or (7) Strongly agree?" The statements were:
+
+* We have a relatively good understanding of the basic biological mechanisms of aging.
+* Some combination of the nine hallmarks (Lopez-Otin et al. 2013) or the seven pillars (Kennedy et al. 2014) does a relatively comprehensive job of describing the mechanisms of aging.
+* It is or will soon be possible to have relatively reliable metrics of the overall aging process
+* Aging cannot and should not be measured by a single metric because it is multi-dimensional
+* It should be possible to quantify aging well even in the absence of a clear consensus or mechanistic understanding of what aging is.
+* It should be possible to intervene in aging, and evaluate interventions, even in the absence of a clear consensus or mechanistic understanding of what aging is.
+* There are many species across the tree of life that do not age at a rate that is biologically relevant or appreciable
+* Broadly speaking, aging mechanisms are similar in most species
+* Mortality rates or survival curves are generally a reasonable proxy for aging at the organismal level
+* It is important for the field to have a consensus definition of aging
+* Aging is an undesirable process that should be treated, cured, or minimized
+
+Additional questions:
+
+* Does aging begin approximately at (1) conception; (2) birth; (3) sexual maturity; or (4) later in life?
+* What percent of what we observe as aging do you think can be attributed to the following types of mechanisms (understanding that they may coexist and interact with each other): \[100 points that should be distributed among the five options below\]
+    - Damage accumulation (DNA damage, protein aggregates, structural damage, etc.)
+    - Maladaptation/antagonistic pleiotropy: mechanisms that are useful early in life (e.g. for cancer prevention) become harmful later in life.
+    - Adaptation: Adjustments the organism makes to either pathological aspects of aging or to changing needs (e.g. immune repertoire) at different ages.
+    - Homeostatic dysregulation: breakdown in the capacity of complex regulatory networks to maintain homeostasis
+    - Other
 
 
 ## References {.page_break_before}
