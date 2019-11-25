@@ -1,27 +1,29 @@
 ---
-title: "Manuscript Title"
+title: "Lack of consensus on an aging biology paradigm"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - theories of aging
+  - definitions of aging
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    name: Alan A. Cohen
+    initials: AAC
+    email: alan.cohen@usherbrooke.ca
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
+      - Department of Family Medicine and Emergency Medicine, Faculty of Medicine and Health Sciences, University of Sherbrooke
+  - 
+    name: Brian H. Kennedy
+    initials: BHK
+    email: bkennedy@nus.edu.sg
+    affiliations:
+      - Department of Biochemistry and Physiology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore
+      - National University Health System Centre for Healthy Ageing, Singapore
+      - Buck Institute for Research on Ageing, Novato, CA, USA
+      - Leonard Davis School of Gerontology, USC, Los Angeles, CA, USA
+      - Department of Biochemistry, University of Washington, Seattle, WA, USA
   -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    name: Tamàs Fülöp
+    initials: TF
+    email: tamas.fulop@usherbrooke.ca
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of Family Medicine and Emergency Medicine, Faculty of Medicine and Health Sciences, University of Sherbrooke
