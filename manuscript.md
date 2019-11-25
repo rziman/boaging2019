@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://rziman.github.io/boaging2019/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://rziman.github.io/boaging2019/v/bc11a85630e6e8cdeee7fd247af1f143aab29f1c/" />
+  <link rel="alternate" type="text/html" href="https://rziman.github.io/boaging2019/v/d6622bb49104a9ece7e2c2b9dc9bc5e004455c17/" />
 
-  <meta name="manubot_html_url_versioned" content="https://rziman.github.io/boaging2019/v/bc11a85630e6e8cdeee7fd247af1f143aab29f1c/" />
+  <meta name="manubot_html_url_versioned" content="https://rziman.github.io/boaging2019/v/d6622bb49104a9ece7e2c2b9dc9bc5e004455c17/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://rziman.github.io/boaging2019/v/bc11a85630e6e8cdeee7fd247af1f143aab29f1c/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://rziman.github.io/boaging2019/v/d6622bb49104a9ece7e2c2b9dc9bc5e004455c17/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -97,9 +97,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://rziman.github.io/boaging2019/v/bc11a85630e6e8cdeee7fd247af1f143aab29f1c/))
+([permalink](https://rziman.github.io/boaging2019/v/d6622bb49104a9ece7e2c2b9dc9bc5e004455c17/))
 was automatically generated
-from [rziman/boaging2019@bc11a85](https://github.com/rziman/boaging2019/tree/bc11a85630e6e8cdeee7fd247af1f143aab29f1c)
+from [rziman/boaging2019@d6622bb](https://github.com/rziman/boaging2019/tree/d6622bb49104a9ece7e2c2b9dc9bc5e004455c17)
 on November 25, 2019.
 </em></small>
 
@@ -133,6 +133,8 @@ on November 25, 2019.
 ## Abstract {.page_break_before}
 
 At a recent symposium on the biology of aging, a debate was held as to whether or not we know what aging is. Many/most of the participants were struck not only by the lack of consensus on this core question, but also on many basic tenets of the field, and on how to ask the key questions. Together, we felt it was important to write up a summary of these cordial but important disagreements to demonstrate the work the field has before it in order to generate a clear paradigm. Accordingly, we undertook a systematic survey of participants on a number of points that were raised during the debate and symposium, and here present a summary of the conclusions. We use this to identify major directions, empirical or philosophical, that might help move the field toward a consensus paradigm. \[1-2 more sentences to be added after we see survey results\].
+
+
 
 
 ## References {.page_break_before}
