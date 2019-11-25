@@ -1,93 +1,15 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Alan A. Cohen
+- Brian H. Kennedy
+- "Tam\xE0s F\xFCl\xF6p"
 date-meta: '2019-11-25'
-header-includes: '<!--
-
-  Manubot generated metadata rendered from header-includes-template.html.
-
-  Suggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html
-
-  -->
-
-  <meta name="dc.format" content="text/html" />
-
-  <meta name="dc.title" content="Manuscript Title" />
-
-  <meta name="citation_title" content="Manuscript Title" />
-
-  <meta property="og:title" content="Manuscript Title" />
-
-  <meta property="twitter:title" content="Manuscript Title" />
-
-  <meta name="dc.date" content="2019-11-25" />
-
-  <meta name="citation_publication_date" content="2019-11-25" />
-
-  <meta name="dc.language" content="en-US" />
-
-  <meta name="citation_language" content="en-US" />
-
-  <meta name="dc.relation.ispartof" content="Manubot" />
-
-  <meta name="dc.publisher" content="Manubot" />
-
-  <meta name="citation_journal_title" content="Manubot" />
-
-  <meta name="citation_technical_report_institution" content="Manubot" />
-
-  <meta name="citation_author" content="John Doe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <link rel="canonical" href="https://rziman.github.io/boaging2019/" />
-
-  <meta property="og:url" content="https://rziman.github.io/boaging2019/" />
-
-  <meta property="twitter:url" content="https://rziman.github.io/boaging2019/" />
-
-  <meta name="citation_fulltext_html_url" content="https://rziman.github.io/boaging2019/" />
-
-  <meta name="citation_pdf_url" content="https://rziman.github.io/boaging2019/manuscript.pdf" />
-
-  <link rel="alternate" type="application/pdf" href="https://rziman.github.io/boaging2019/manuscript.pdf" />
-
-  <link rel="alternate" type="text/html" href="https://rziman.github.io/boaging2019/v/eaa89f30dab1b7e776b5c2c08309ba5e06ea97cd/" />
-
-  <meta name="manubot_html_url_versioned" content="https://rziman.github.io/boaging2019/v/eaa89f30dab1b7e776b5c2c08309ba5e06ea97cd/" />
-
-  <meta name="manubot_pdf_url_versioned" content="https://rziman.github.io/boaging2019/v/eaa89f30dab1b7e776b5c2c08309ba5e06ea97cd/manuscript.pdf" />
-
-  <meta property="og:type" content="article" />
-
-  <meta property="twitter:card" content="summary_large_image" />
-
-  <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
-
-  <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
-
-  <meta name="theme-color" content="#ad1457" />
-
-  <!-- end Manubot generated metadata -->'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Lack of consensus on an aging biology paradigm\" />\n<meta name=\"citation_title\" content=\"Lack of consensus on an aging biology paradigm\" />\n<meta property=\"og:title\" content=\"Lack of consensus on an aging biology paradigm\" />\n<meta property=\"twitter:title\" content=\"Lack of consensus on an aging biology paradigm\" />\n<meta name=\"dc.date\" content=\"2019-11-25\" />\n<meta name=\"citation_publication_date\" content=\"2019-11-25\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Alan A. Cohen\" />\n<meta name=\"citation_author_institution\" content=\"Department of Family Medicine and Emergency Medicine, Faculty of Medicine and Health Sciences, University of Sherbrooke\" />\n<meta name=\"citation_author\" content=\"Brian H. Kennedy\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biochemistry and Physiology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore\" />\n<meta name=\"citation_author_institution\" content=\"National University Health System Centre for Healthy Ageing, Singapore\" />\n<meta name=\"citation_author_institution\" content=\"Buck Institute for Research on Ageing, Novato, CA, USA\" />\n<meta name=\"citation_author_institution\" content=\"Leonard Davis School of Gerontology, USC, Los Angeles, CA, USA\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biochemistry, University of Washington, Seattle, WA, USA\" />\n<meta name=\"citation_author\" content=\"Tam\xE0s F\xFCl\xF6p\" />\n<meta name=\"citation_author_institution\" content=\"Department of Family Medicine and Emergency Medicine, Faculty of Medicine and Health Sciences, University of Sherbrooke\" />\n<link rel=\"canonical\" href=\"https://rziman.github.io/boaging2019/\" />\n<meta property=\"og:url\" content=\"https://rziman.github.io/boaging2019/\" />\n<meta property=\"twitter:url\" content=\"https://rziman.github.io/boaging2019/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://rziman.github.io/boaging2019/\" />\n<meta name=\"citation_pdf_url\" content=\"https://rziman.github.io/boaging2019/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://rziman.github.io/boaging2019/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://rziman.github.io/boaging2019/v/730f1652b9ac1fcfe0f9ac49c424ee1159f2a485/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://rziman.github.io/boaging2019/v/730f1652b9ac1fcfe0f9ac49c424ee1159f2a485/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://rziman.github.io/boaging2019/v/730f1652b9ac1fcfe0f9ac49c424ee1159f2a485/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
-- markdown
-- publishing
-- manubot
+- theories of aging
+- definitions of aging
 lang: en-US
-title: Manuscript Title
+title: Lack of consensus on an aging biology paradigm
 ...
 
 
@@ -97,9 +19,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://rziman.github.io/boaging2019/v/eaa89f30dab1b7e776b5c2c08309ba5e06ea97cd/))
+([permalink](https://rziman.github.io/boaging2019/v/730f1652b9ac1fcfe0f9ac49c424ee1159f2a485/))
 was automatically generated
-from [rziman/boaging2019@eaa89f3](https://github.com/rziman/boaging2019/tree/eaa89f30dab1b7e776b5c2c08309ba5e06ea97cd)
+from [rziman/boaging2019@730f165](https://github.com/rziman/boaging2019/tree/730f1652b9ac1fcfe0f9ac49c424ee1159f2a485)
 on November 25, 2019.
 </em></small>
 
@@ -107,25 +29,19 @@ on November 25, 2019.
 
 
 
-+ **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
++ **Alan A. Cohen**<br><br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Department of Family Medicine and Emergency Medicine, Faculty of Medicine and Health Sciences, University of Sherbrooke
   </small>
 
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
++ **Brian H. Kennedy**<br><br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Biochemistry and Physiology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore; National University Health System Centre for Healthy Ageing, Singapore; Buck Institute for Research on Ageing, Novato, CA, USA; Leonard Davis School of Gerontology, USC, Los Angeles, CA, USA; Department of Biochemistry, University of Washington, Seattle, WA, USA
+  </small>
+
++ **Tamàs Fülöp**<br><br>
+  <small>
+     Department of Family Medicine and Emergency Medicine, Faculty of Medicine and Health Sciences, University of Sherbrooke
   </small>
 
 
