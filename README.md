@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/rziman/boaging2019/tree/gh-pages) branch hosts the contents of this directory at https://rziman.github.io/boaging2019/.
-The permalink for this webpage version is https://rziman.github.io/boaging2019/v/04d2c060dd88bfd4d2edcfffff1b02eb1956aede/.
+The permalink for this webpage version is https://rziman.github.io/boaging2019/v/2e10bb46b1358ddcb9e752d52ac7f0c985d76185/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://rziman.github.io/boaging2019/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`04d2c060dd88bfd4d2edcfffff1b02eb1956aede`](https://github.com/rziman/boaging2019/commit/04d2c060dd88bfd4d2edcfffff1b02eb1956aede).
+[`2e10bb46b1358ddcb9e752d52ac7f0c985d76185`](https://github.com/rziman/boaging2019/commit/2e10bb46b1358ddcb9e752d52ac7f0c985d76185).
