@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://rziman.github.io/boaging2019/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://rziman.github.io/boaging2019/v/04d2c060dd88bfd4d2edcfffff1b02eb1956aede/" />
+  <link rel="alternate" type="text/html" href="https://rziman.github.io/boaging2019/v/2e10bb46b1358ddcb9e752d52ac7f0c985d76185/" />
 
-  <meta name="manubot_html_url_versioned" content="https://rziman.github.io/boaging2019/v/04d2c060dd88bfd4d2edcfffff1b02eb1956aede/" />
+  <meta name="manubot_html_url_versioned" content="https://rziman.github.io/boaging2019/v/2e10bb46b1358ddcb9e752d52ac7f0c985d76185/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://rziman.github.io/boaging2019/v/04d2c060dd88bfd4d2edcfffff1b02eb1956aede/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://rziman.github.io/boaging2019/v/2e10bb46b1358ddcb9e752d52ac7f0c985d76185/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -97,9 +97,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://rziman.github.io/boaging2019/v/04d2c060dd88bfd4d2edcfffff1b02eb1956aede/))
+([permalink](https://rziman.github.io/boaging2019/v/2e10bb46b1358ddcb9e752d52ac7f0c985d76185/))
 was automatically generated
-from [rziman/boaging2019@04d2c06](https://github.com/rziman/boaging2019/tree/04d2c060dd88bfd4d2edcfffff1b02eb1956aede)
+from [rziman/boaging2019@2e10bb4](https://github.com/rziman/boaging2019/tree/2e10bb46b1358ddcb9e752d52ac7f0c985d76185)
 on November 25, 2019.
 </em></small>
 
@@ -140,6 +140,8 @@ At a recent symposium on the biology of aging, a debate was held as to whether o
 The authors were all participants at the _Biology of Aging Symposium: Understanding Aging to Better Intervene_, held November 9-11, 2019 in Montreal, Quebec. The symposium featured 44 speakers with a diversity of expertise related to aging, including basic aging biology, translational geroscience, geriatric medicine, nutrition, immunosenescence, ecology/evolution, demography, statistics, systems biology, aging epidemiology, and complex systems theory. During the course of the symposium, a debate was held on the question, "Do we know what aging is?" with BHK ostensibly arguing the "pro" side and AAC ostensibly arguing the "con" side. There was extensive audience participation. Most participants agreed that the debate was striking in how it highlighted the lack of a clear consensus paradigm in the field, and collectively we agreed it would be important to describe this for our colleagues.
 
 Accordingly, we designed a survey that we sent to participants of the symposium, both invited speakers and students/other participants. The survey was meant to capture the opinions on the key points of disagreement during the debate and the meeting more generally. All participants who responded to the survey are co-authors.
+
+
 
 
 ## References {.page_break_before}
